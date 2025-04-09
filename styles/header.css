@@ -1,0 +1,42 @@
+/** class of the paragraph KOPIKO USA**/
+.heading{
+  color:rgb(183, 183, 183);
+  font-family:"Playfair Display", serif;
+  font-size:46px;
+  /**to put the "KOPIKO USA" at the center of the webpage**/
+  text-align: center;
+  margin-bottom:-10px;
+}
+.heading:hover{
+  color:rgb(211, 69, 13);
+}
+/**class of sub-heading paragraph**/
+.sub-heading{
+color:rgb(183, 183, 183);
+font-family:roboto;
+font-size:13px;
+text-align: center;
+margin-bottom:0px;
+
+}
+.horizontal-line{
+  width:90%;
+  border-bottom: 1px solid #a5a1a1;
+  margin-top:35px;
+  
+}
+.contact-info{
+  color:white;
+  display:flex;
+  justify-content:center;
+  gap:50px;
+
+}
+.info:hover{
+  cursor:pointer;
+  color:rgb(211, 69, 13);
+}
+.info{
+  font-family:roboto;
+  font-size:14px;
+}

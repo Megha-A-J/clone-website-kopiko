@@ -1,0 +1,57 @@
+.paragraph-caption{
+  color:rgb(153, 153, 153);
+  margin-left:320px;
+}
+.first-image{
+  width:2000px;
+  margin-top:14px;
+}
+.first-para{
+  margin-top:200px;
+ margin-bottom:-12px;
+}
+.second-para{
+  margin-left: 150px;
+}
+.third-para{
+  margin-left: 242px;
+  margin-top:50px;
+  margin-bottom:60px;
+}
+.second-image{
+  margin-left:500px;
+  height:500px;
+  margin-bottom: 250px;
+  
+}
+.social-media-icons{
+ display:flex;
+ justify-content:center;
+ gap:50px;
+ margin-bottom:170px;
+}
+.icons{
+  width:30px;
+  border-radius:20px;
+ 
+}
+.last-para{
+  color:gray;
+  font-size:12px;
+  display:flex;
+  justify-content:center;
+}
+/*styling span*/
+
+.kopico-usa,.wen-themes{
+  color:white;
+}
+.kopico-usa:hover{
+  color:red;
+  text-decoration: underline;
+  
+}
+.wen-themes:hover{
+  color: red;
+  text-decoration:underline;
+}
